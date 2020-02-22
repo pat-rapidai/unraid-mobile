@@ -7,9 +7,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- bash https://www.gnu.org/software/bash/
-- nodejs https://nodejs.org/en/
-- yarn https://classic.yarnpkg.com/en/
+- [bash](https://www.gnu.org/software/bash/)
+- [node](https://nodejs.org/en/)
+- [yarn](https://classic.yarnpkg.com/en/)
+- [expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US)
 
 ### Installing
 
@@ -25,9 +26,10 @@ $ yarn install
 ```
 
 
-## Running the tests
-
-TBD
+## Testing the application
+```
+$ yarn start
+```
 
 
 ## Deployment
