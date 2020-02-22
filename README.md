@@ -7,10 +7,10 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-- [bash](https://www.gnu.org/software/bash/)
-- [node](https://nodejs.org/en/)
-- [yarn](https://classic.yarnpkg.com/en/)
-- [expo](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US)
+- [bash](https://www.gnu.org/software/bash/) - unix shell command line
+- [node](https://nodejs.org/en/) - javascript runtie engine
+- [yarn](https://classic.yarnpkg.com/en/) - package manager
+- [expo client ios](https://apps.apple.com/us/app/expo-client/id982107779) | [expo client android](https://play.google.com/store/apps/details?id=host.exp.exponent&hl=en_US) - mobile development app to hotreload local code changes
 
 ### Installing
 
